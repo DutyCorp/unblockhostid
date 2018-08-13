@@ -421,6 +421,43 @@
 151.101.1.140 e.reddit.com
 151.101.1.140 ssl.reddit.com
 151.101.1.140 oauth.reddit.com
+151.101.1.140 origin.reddit.com
+151.101.1.140 old.reddit.com
+151.101.193.140 alpha.reddit.com
+
+151.101.1.140 i.reddit.com
+
+151.101.1.140 nsfw.reddit.com
+
+151.101.1.140 sendbird.reddit.com
+
+151.101.1.140 gateway.reddit.com
+
+151.101.193.140 redd.it
+
+151.101.1.140 i.redd.it
+
+151.101.1.140 v.redd.it
+
+151.101.1.140 redditstatic.com
+
+54.172.97.235 redditmedia.com
+
+151.101.1.140 i.redditmedia.com
+
+151.101.1.140 thumbs.redditmedia.com
+
+151.101.1.140 a.thumbs.redditmedia.com
+
+151.101.1.140 b.thumbs.redditmedia.com
+
+151.101.1.140 c.thumbs.redditmedia.com
+
+151.101.1.140 d.thumbs.redditmedia.com
+
+151.101.1.140 e.thumbs.redditmedia.com
+
+151.101.1.140 f.thumbs.redditmedia.com
 104.25.47.115 javhub.net www.javhub.net
 104.27.72.17 javmost.com WWW5.javmost.com
 104.28.25.83 underhentai.net www.underhentai.net
@@ -519,9 +556,6 @@
 91.212.150.157 katcr.co www.katcr.co
 104.31.16.3 1337x.to www.1337x.to
 104.27.214.28 yts.am www.yts.am
-151.101.1.140 origin.reddit.com
-151.101.1.140 old.reddit.com
-151.101.1.140 sendbird.reddit.com
 104.31.79.158 gojav.xyz www.gojav.xyz
 104.18.41.67 javstream.us www.javstream.us
 104.20.43.57 8ch.net www.8ch.net
